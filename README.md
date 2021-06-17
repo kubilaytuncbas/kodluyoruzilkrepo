@@ -1,3 +1,4 @@
+![repo](https://user-images.githubusercontent.com/80206303/122483632-b36d3c00-cfdb-11eb-86e5-2d66233fb5b7.png)
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
